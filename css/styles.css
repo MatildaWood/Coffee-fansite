@@ -1,0 +1,26 @@
+body{   
+    border: #3D0000;
+    background-image: url("https://media.istockphoto.com/photos/cup-glass-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-picture-id1303583671?b=1&k=20&m=1303583671&s=170667a&w=0&h=Nq5aWss-PVbEm5jDIa0nTf35qsxQH8znqtX9MAU5__A=");
+    background-size: 115% ;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    
+}
+
+h1 {
+    color: #C39E5C;
+    font-family: 'Indie Flower', cursive;
+    font-size: 80px;
+    text-align: center;
+    border-color: #C39E5C;
+    text-decoration: underline
+}
+
+p {
+    color: #C39E5C;
+    text-align: center;
+    font-size: 17px;
+
+}
+
